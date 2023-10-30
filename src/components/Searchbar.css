@@ -1,0 +1,27 @@
+.search{
+          width: 620px;
+          height: 80px;
+          background: #FFFFFF 0% 0% no-repeat padding-box;
+          border-radius: 10px;
+          margin: 40px 30px 30px 30px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+         
+}
+.search Input{
+          border: none;
+
+}
+
+.mid-top{
+          width:620px;
+          height: 80px;
+          background-color: white;
+          margin-top: 40px !important;
+          margin: 30px 30px;
+          border-radius: 10px;
+      }
+      .horizontalCards{
+          padding-left:30px;
+}

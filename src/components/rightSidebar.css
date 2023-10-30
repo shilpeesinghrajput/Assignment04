@@ -1,0 +1,35 @@
+.buttonOne{
+          border-radius: 10px;
+      }
+
+      .sideCard{
+          border-radius: 10px;
+          margin-bottom: 25px;
+      }
+      .img1{
+          background-image: url('../assets/sideImg1.png');
+      }
+      .img2{
+          background-image: url('../assets/sideImg2.png');
+      }
+      .img3{
+          background-image: url('../assets/sideImg3.png');
+      }
+      .img4{
+          background-image: url('../assets/sideImg4.png');
+      }
+      .img5{
+          background-image: url('../assets/sideImg5.png');
+      }
+      .sideCardContent{
+          height: 100px !important;
+      }
+      .mid-top{
+          width: 620px;
+          height: 80px;
+          background-color: white;
+      }
+      .inside-content{
+          margin-bottom: 9px;
+    margin-left: 12px;
+      }

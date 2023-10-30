@@ -1,0 +1,55 @@
+ .sidebar-logo{
+          padding-top: 40px;
+        
+ }
+.sidebar-logo h5{
+           background-color: white;
+          margin-bottom: 30px;
+          width: 260px;
+          height: 80px;
+        
+          border-radius: 10px;
+          text-align: left;
+          font: normal normal normal 32px/44px Mongolian Baiti;
+          letter-spacing: 0px;
+          color: #101010;
+          opacity: 1;
+}
+.cards{
+background: #FFFFFF;
+border-radius: 10px;
+opacity: 1;
+}
+.cards list{
+          text-align: left;
+font: normal normal 600 16px/19px Gilroy;
+letter-spacing: 0px;
+color: #101010;
+}
+.active{
+          font-size:19px;
+          color:#8D8D8D;
+}
+.active:hover{
+          font-weight: 600;
+          color: #101010;
+          border-left: 3px solid #88C2BB;
+          border-radius: 0px;
+                 
+}
+
+.active:hover .iconn{
+          color:#101010;   
+}
+.iconn{
+          width: 20px;
+          height: 20px;
+          color:#8D8D8D;
+}
+.more{
+          position: relative;
+          top: 200px;
+          color: #88C2BB;
+          font-size:19px;
+          
+}
